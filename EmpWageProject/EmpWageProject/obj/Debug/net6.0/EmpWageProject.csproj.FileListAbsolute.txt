@@ -1,0 +1,15 @@
+/Users/apple/Desktop/NewProject/NewProject/EmpWageProject/EmpWageProject/bin/Debug/net6.0/EmpWageProject
+/Users/apple/Desktop/NewProject/NewProject/EmpWageProject/EmpWageProject/bin/Debug/net6.0/EmpWageProject.deps.json
+/Users/apple/Desktop/NewProject/NewProject/EmpWageProject/EmpWageProject/bin/Debug/net6.0/EmpWageProject.runtimeconfig.json
+/Users/apple/Desktop/NewProject/NewProject/EmpWageProject/EmpWageProject/bin/Debug/net6.0/EmpWageProject.dll
+/Users/apple/Desktop/NewProject/NewProject/EmpWageProject/EmpWageProject/bin/Debug/net6.0/EmpWageProject.pdb
+/Users/apple/Desktop/NewProject/NewProject/EmpWageProject/EmpWageProject/obj/Debug/net6.0/EmpWageProject.csproj.AssemblyReference.cache
+/Users/apple/Desktop/NewProject/NewProject/EmpWageProject/EmpWageProject/obj/Debug/net6.0/EmpWageProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/NewProject/NewProject/EmpWageProject/EmpWageProject/obj/Debug/net6.0/EmpWageProject.AssemblyInfoInputs.cache
+/Users/apple/Desktop/NewProject/NewProject/EmpWageProject/EmpWageProject/obj/Debug/net6.0/EmpWageProject.AssemblyInfo.cs
+/Users/apple/Desktop/NewProject/NewProject/EmpWageProject/EmpWageProject/obj/Debug/net6.0/EmpWageProject.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/NewProject/NewProject/EmpWageProject/EmpWageProject/obj/Debug/net6.0/EmpWageProject.dll
+/Users/apple/Desktop/NewProject/NewProject/EmpWageProject/EmpWageProject/obj/Debug/net6.0/refint/EmpWageProject.dll
+/Users/apple/Desktop/NewProject/NewProject/EmpWageProject/EmpWageProject/obj/Debug/net6.0/EmpWageProject.pdb
+/Users/apple/Desktop/NewProject/NewProject/EmpWageProject/EmpWageProject/obj/Debug/net6.0/EmpWageProject.genruntimeconfig.cache
+/Users/apple/Desktop/NewProject/NewProject/EmpWageProject/EmpWageProject/obj/Debug/net6.0/ref/EmpWageProject.dll
