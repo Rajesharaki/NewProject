@@ -4,19 +4,28 @@ public class Program
 {
     public static void Main(string[] arg)
     {
-        //Uc1 code
+        //Uc2 code
 
-        int isPresen = 1;
+        int isPartTime = 2;
+        int isFullTime = 1;
+        int empwageperhr = 20;
+        int emphr;
 
         Random random = new Random();
-        int check = random.Next(0, 1);
-        if (check == isPresen)
+        int check = random.Next(0, 3);
+        if (check ==isFullTime )
         {
-            Console.WriteLine("Emp Present");
+            emphr = 8;
+        }
+        else if(check==isPartTime)
+        {
+            emphr = 4;
         }
         else
         {
-            Console.WriteLine("Emp Absent");
+            emphr = 0;
         }
+        
+        Console.WriteLine("Emp wage is ="+(emphr*empwageperhr));
     }
 }
